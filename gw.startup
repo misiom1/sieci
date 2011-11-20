@@ -1,0 +1,2 @@
+ifconfig eth0 10.0.8.2 netmask 255.255.255.252 broadcast 10.0.8.3 up
+route add default gw 10.0.8.1
